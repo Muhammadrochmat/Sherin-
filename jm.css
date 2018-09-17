@@ -14,11 +14,11 @@ body, html {
 }
  body {
      font: 12px "Monaco", Inconsolata, monospace;
-     background: #Sherin.jpeg;
+     <body background="Sherin.jpeg">
      color: #f8f8f8;
 }
  .terminal {
-     background: transparend ;
+     background: transparent ;
      position: absolute;
      left: 50%;
      top: 25%;
