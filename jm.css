@@ -14,7 +14,7 @@ body, html {
 }
  body {
      font: 12px "Monaco", Inconsolata, monospace;
-     <body background="Sherin.jpeg">
+     Background: #1b2f4d;
      color: #f8f8f8;
 }
  .terminal {
